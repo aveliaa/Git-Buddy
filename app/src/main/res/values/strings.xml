@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GitBuddy</string>
+    <string name="search">search</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="followers_amount">%s Followers</string>
+    <string name="following_amount">%s Following</string>
+    <string name="user_profile_picture">user profile picture</string>
+    <string name="favorite">favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="switch_mode">Switch mode</string>
+    <string name="no_user_found">User Not Found</string>
+</resources>
